@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/proy-dragons/static/css/main.9f033c8a.css",
+    "main.js": "/proy-dragons/static/js/main.97d5fdb0.js",
+    "static/js/787.4f6c8ef9.chunk.js": "/proy-dragons/static/js/787.4f6c8ef9.chunk.js",
+    "static/media/imaginedr.jpg": "/proy-dragons/static/media/imaginedr.81f691195a5ce9955aa4.jpg",
+    "static/media/shop3.jpg": "/proy-dragons/static/media/shop3.c9d33fcc0669db2f0b2f.jpg",
+    "static/media/shop2.jpg": "/proy-dragons/static/media/shop2.c9b15d9a448486ca85da.jpg",
+    "static/media/shop1.jpg": "/proy-dragons/static/media/shop1.b26d58b56dd984e3551a.jpg",
+    "index.html": "/proy-dragons/index.html",
+    "main.9f033c8a.css.map": "/proy-dragons/static/css/main.9f033c8a.css.map",
+    "main.97d5fdb0.js.map": "/proy-dragons/static/js/main.97d5fdb0.js.map",
+    "787.4f6c8ef9.chunk.js.map": "/proy-dragons/static/js/787.4f6c8ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f033c8a.css",
+    "static/js/main.97d5fdb0.js"
+  ]
+}
